@@ -11,7 +11,7 @@ Charcoal mosaic tiles, softly reflective copper motifs, and warm copper interfac
 For **Omarchy 4 with Omarchy Shell**:
 
 ```sh
-omarchy theme install https://github.com/ejuro/omarchy-charcoal-copper-mosaic-theme
+omarchy theme install https://github.com/erikrjohansson/omarchy-charcoal-copper-mosaic-theme
 ```
 
 Use `omarchy theme bg next` to switch between the logo and wordmark wallpapers.
